@@ -1,3 +1,5 @@
+## Origins of the project
+During the height of the COVID-19 pandemic in Italy in March 2020, I invented a procedure to speed up covid testing by a factor of 5x. After working out the theoretical procedure on my own, I assembled a team of Professors and Researchers from 3 different universities. The procedure we developed was proved to work in the virology Lab of Pisa. Our methodology did not receive regulatory approval in Italy, but variations on our method are used as a standard testing procedure all over the world.
 ## Overview of the procedure
 ### Previous methodology
 before the introduction of our procedure, the test for Covid-19 was done in the following way:
